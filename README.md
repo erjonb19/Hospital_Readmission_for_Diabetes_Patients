@@ -9,6 +9,9 @@
 This project aims to predict the likelihood of hospital readmission for diabetic patients within 30 days of discharge. The dataset used for this project includes various patient attributes, hospital admission details, and medical procedures, which are used to build and evaluate predictive models. The goal is to identify high-risk patients and improve healthcare outcomes by providing timely interventions.
 
 
+## Install Requirements
+pip install -r requirements.txt
+
 
 ## Dataset
 
